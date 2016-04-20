@@ -1,0 +1,14 @@
+{
+  "name": "jostmart-celery",
+  "version": "0.1.0",
+  "author": "jostmart",
+  "summary": "Quick job to get Celeryd installed",
+  "license": "Apache 2.0",
+  "source": "git@github.com:jostmart/puppet-celeryd.git",
+  "project_page": "https://github.com/jostmart/puppet-celeryd",
+  "issues_url": "https://github.com/jostmart/puppet-celeryd/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
